@@ -65,14 +65,6 @@ The complete investigation report contains the reconstructed incident timeline, 
 
 ➡️ **[Read the full DFIR investigation report](report/WorkFromHome_DFIR_Investigation_Report.pdf)**
 
-## Repository Structure
+## Disclaimer
 
-```text
-WorkFromHome-DFIR-Investigation/
-├── README.md
-├── report/
-│   └── WorkFromHome_DFIR_Investigation_Report.pdf
-├── evidence/
-│   └── selected forensic evidence
-└── mitre/
-    └── ATT&CK mapping
+This investigation was conducted in a lab environment using the CyberDefenders. This project is intended portfolio purposes.
