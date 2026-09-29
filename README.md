@@ -1,6 +1,6 @@
 # WorkFromHome — DFIR Investigation
 
-Digital Forensics & Incident Response investigation of a compromised Windows environment based on the CyberDefenders **WorkFromHome** training lab.
+Digital Forensics & Incident Response investigation of a compromised Windows environment based on the CyberDefenders WorkFromHome training lab.
 
 The objective of this project was to reconstruct the attack timeline by correlating multiple Windows forensic artifacts and determine how the threat actor gained access, expanded their privileges, exfiltrated data, evaded security controls, and established persistence.
 
@@ -8,7 +8,7 @@ The objective of this project was to reconstruct the attack timeline by correlat
 
 The investigation reconstructed the following attack chain:
 
-**AnyDesk Remote Access → Internal Resource Access → Data Exfiltration → RDP Access → Privilege Escalation → Defense Evasion → Persistence**
+AnyDesk Remote Access → Internal Resource Access → Data Exfiltration → RDP Access → Privilege Escalation → Defense Evasion → Persistence
 
 Key findings included:
 
